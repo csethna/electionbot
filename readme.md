@@ -37,4 +37,4 @@ support, insight, and amplification to their respective users.
 -
 
 ### Marketing, Amplification, Communications
-- *see* [comms.md](https://github.com/csethna/electionbot/comms.md)
+- *see* [comms.md](https://github.com/csethna/electionbot/blob/master/comms.md)
