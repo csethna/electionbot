@@ -1,9 +1,10 @@
 # Election Bot
 ## A Public Information Campaign
 ### Overview
-*Election Bot* exists as a static website and a social media tool intended to
-inform people about the characteristics of computer-generated social media posts
-and fake news perpetuated by foreign governments or organizations.
+*Election Bot* (final name TBD) exists as a static website and a social media
+tool intended to inform people about the characteristics of computer-generated
+social media posts and fake news perpetuated by foreign governments or
+organizations.
 
 ### Website
 The website will provide examples and guidance on how to evaluate, identify, and
