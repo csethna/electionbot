@@ -44,8 +44,7 @@ support, insight, and amplification to their respective users.
 - BotOMeter
 
 **Front End**
-- Ruby on Rails
-- Jekyll
+- Ruby on Rails (Jekyll)
 
 ### Marketing, Amplification, Communications
 - *see* [comms.md](https://github.com/csethna/electionbot/blob/master/comms.md)
