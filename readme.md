@@ -18,9 +18,11 @@ visitors feel welcome, safe with a sincere and serious, yet non-judgmental tone.
 
 ### Bot
 - Users will `@mention` the bot on a post they wish to check for human authenticity.
-
-The bot will connect to [BotOMeter](https://botometer.iuni.iu.edu/#!/), a
+- The **bot** will connect to [BotOMeter](https://botometer.iuni.iu.edu/#!/), a
 collaborative project between IU and USC.
+- The **bot** evaluate the score returned by `BotOMeter` against a heuristic
+algorithm developed by our team to determine if the post is or is not robotically
+generated.
 
 ### Partnerships
 We will look to partner with commonly used social media platforms including:
