@@ -41,6 +41,7 @@ support, insight, and amplification to their respective users.
 - Python 3.6
 - Requests
 - Tweepy
+- BotOMeter
 
 **Front End**
 - Ruby on Rails
