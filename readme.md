@@ -14,12 +14,12 @@ likelihood a particular post is robotically generated or amplified.
 Plain language will be used throughout the single-page website which makes
 visitors feel welcome, safe with a sincere and serious, yet non-judgmental tone.
 
-### website
+### Website
 
 ### Bot
 
 
-### partnerships
+### Partnerships
 We will look to partner with commonly used social media platforms including:
 - Twitter
 - Facebook / Instagram
