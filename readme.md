@@ -17,10 +17,10 @@ visitors feel welcome, safe with a sincere and serious, yet non-judgmental tone.
 ### website
 
 ### Bot
-Starting with
+
 
 ### partnerships
-We will look to partner with commonly used social media platforms including
+We will look to partner with commonly used social media platforms including:
 - Twitter
 - Facebook / Instagram
 - Pinterest
