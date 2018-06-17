@@ -37,13 +37,13 @@ support, insight, and amplification to their respective users.
 ### Background Reading
 -
 ### Tools
-**Back End**
+*Back End*
 - Python 3.6
 - Requests
 - Tweepy
 - BotOMeter
 
-**Front End**
+*Front End*
 - Rails (Jekyll)
 
 ### Marketing, Amplification, Communications
