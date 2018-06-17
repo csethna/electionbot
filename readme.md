@@ -49,3 +49,12 @@ support, insight, and amplification to their respective users.
 
 ### Marketing, Amplification, Communications
 - *see* [comms.md](https://github.com/csethna/electionbot/blob/master/comms.md)
+
+### Roles Needed
+- SWE (front end)
+- SWE (back end)
+- SRE (deployment)
+- UX
+- UI
+- Product Manager
+- Marketing / Comms
