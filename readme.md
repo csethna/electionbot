@@ -34,8 +34,17 @@ We will look to partner with commonly used social media platforms including:
 Partnerships will give credibility to the project as well as potential technical
 support, insight, and amplification to their respective users.
 
-### Resources
+### Background Reading
 -
+### Tools
+**Back End**
+- Python 3.6
+- Requests
+- Tweepy
+
+**Front End**
+- Ruby on Rails
+- Jekyll
 
 ### Marketing, Amplification, Communications
 - *see* [comms.md](https://github.com/csethna/electionbot/blob/master/comms.md)
