@@ -31,7 +31,7 @@ We will look to partner with commonly used social media platforms including:
 - Facebook / Instagram
 - Pinterest
 
-Partnerships will give credibility to the project as well as potential technical
+Partnerships will give credibility to the project as well as potential integration,
 support, insight, and amplification to their respective users.
 
 ### Background Reading
